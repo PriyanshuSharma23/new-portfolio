@@ -1,0 +1,44 @@
+.mettalic-linear-gradient {
+    background: linear-gradient(110.49deg, #4945EB 7.11%, #00195A 51.13%, #4945EB 95.16%, #6FB1FC 139.18%, #190634 183.21%);
+    box-shadow: 4px 7px 26px rgba(0, 0, 0, 0.12);
+    border-radius: 15px;
+}
+
+.gradient-text {
+    background: linear-gradient(135.66deg, #43CEA2 25.26%, #185A9D 122.83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.upper-ellipse-gradient {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(191, 69, 235, 0.18) 19.27%, rgba(19, 0, 90, 0) 100%);
+}
+
+.lower-ellipse-gradient {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(73, 69, 235, 0.39) 0%, rgba(73, 69, 235, 0.18) 56.77%, rgba(19, 0, 90, 0) 100%);
+}
+
+.highlight-gradient {
+    background: radial-gradient(50% 50% at 50% 50%, #44CEA3 0%, rgba(68, 206, 163, 0) 100%);
+}
+
+.internal-avatar {
+    background: linear-gradient(180deg, #43CEA2 35.24%, #6FB1FC 100%, #4364F7 100%);
+    transform: rotate(-180deg);
+}
+
+.gradient-text-section-heading {
+    background: linear-gradient(135.66deg, #43CEA2 25.26%, #185A9D 142.83%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.glass {
+    background: radial-gradient(90.16% 143.01% at 15.32% 21.04%, rgba(105, 59, 147, 0.4) 0%, rgba(110, 191, 244, 0.0847917) 77.08%, rgba(70, 144, 213, 0) 100%);
+    backdrop-filter: blur(8.5px);
+    -webkit-backdrop-filter: blur(8.5px);
+}
