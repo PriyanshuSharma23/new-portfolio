@@ -1028,6 +1028,10 @@ video {
     width: max-content;
   }
 
+  .md\:w-3\/4 {
+    width: 75%;
+  }
+
   .md\:w-1\/4 {
     width: 25%;
   }
